@@ -1,0 +1,5 @@
+# Configuration locale (identifiants de la base)
+config.php
+
+# Dépendances Composer (réinstaller avec `composer install`)
+vendor/
